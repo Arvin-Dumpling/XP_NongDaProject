@@ -1,0 +1,47 @@
+%UIMSG-USER-ERROR, Did not find resource translation file "animationlayout.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "lay_message_area.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdviewgallery.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdsimmeshtype.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmddwgpubsetdeliverable.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "drw_toolbar_cat.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "detail_file_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "detail_edit_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "detail_info_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "detail_view_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "detail_utils_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "detail_analysis_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "manikin_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "mfgstep_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "mfgrsrc_pane.txt"
+%UIMSG-APPLICATION-ERROR, Could not find component: EMBED_BROWSER_SEARCH_BTN, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Cannot modify the reverse horizontal placement flag
+%UIMSG-APPLICATION-ERROR, Failed to modify global attributes
+%UIMSG-APPLICATION-ERROR, Could not find component: drawinarea_resizer, in device: main_dlg_w1, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: drawinarea_resizer, in device: main_dlg_w1, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: drawinarea_resizer, in device: main_dlg_w1, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: drawinarea_resizer, in device: main_dlg_w1, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: drawinarea_resizer, in device: main_dlg_w1, for retrieve
+%UIMSG-USER-ERROR, Did not find resource translation file "regenstatusbar.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "drm_status_icons.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "tb_gallery_sel_list.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "appearance_gallery.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "appearance_palettes.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "appearance_samples_layout.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdviewrenderrtdisable.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdviewrenderrtfloor.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdviewrenderrtroom.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdsimprocguide.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "pse_abnorm_exit_dlg.txt"
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdopenlastsession.txt"
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-USER-ERROR, Did not find resource translation file "list_sublay.txt"
+%UIMSG-APPLICATION-ERROR, SetComponentSize, Cannot set width of EMBED_BROWSER_SEARCH_IP@file_open to be less than minimum width (92)
+%UIMSG-APPLICATION-ERROR, Failed to do operation 156 to component: EMBED_BROWSER_SEARCH_IP, in device: file_open
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, Desktop KillTimer: A timer named "EmbedBrowserTimer" does not exist
+%UIMSG-APPLICATION-ERROR, Failed to do operation 217 to component: UI Desktop, in device: UI Desktop

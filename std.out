@@ -1,0 +1,80 @@
+Pro/ENGINEER is running with Unicode string encoding.
+DUMMY - pro_set_input_devices_allowed
+DUMMY - putxyres
+pglSetStatus: Pgl Session Initialize
+DUMMY - putxyres
+msg_translate: ERROR: message 3771 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3772 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3772 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3920 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3921 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3922 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3923 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 796 not found in file 32 ("welding"). 
+msg_translate: ERROR: message 797 not found in file 32 ("welding"). 
+msg_translate: ERROR: message 798 not found in file 32 ("welding"). 
+msg_translate: ERROR: message 799 not found in file 32 ("welding"). 
+msg_translate: ERROR: message 327 not found in file 32 ("welding"). 
+msg_translate: ERROR: message 328 not found in file 32 ("welding"). 
+msg_translate: ERROR: message 327 not found in file 32 ("welding"). 
+msg_translate: ERROR: message 328 not found in file 32 ("welding"). 
+msg_translate: ERROR: message 3408 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3409 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3410 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3411 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3897 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3898 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3899 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3900 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3399 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3399 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3399 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3399 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3616 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3616 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3616 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 3616 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 4035 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 4036 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 4037 not found in file 69 ("pro6"). 
+msg_translate: ERROR: message 4038 not found in file 69 ("pro6"). 
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 40 commands (INFO MESSAGE)
+dll_get_func_ptr_msgq:  OS error 127 while getting ptr to 'gGetProtocolVersion' in 'gPlug' (ORDER_DEBUG)
+uit_get_visual_style_low:  Style is Aero (NormalColor) (INFO MESSAGE)
+msg_translate: ERROR: message 173 not found in file 62 ("favorites"). 
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+check_exec_file_accessible_():  G:\proewildfire5.0\proeWildfire 5.0\\i486_nt\obj\SWConvert.exe accessible (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBIsoDraw' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBPage Layout' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBRaster Image' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBCALS Raster' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBCALS Raster' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBWindows Metafile' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBWindows Metafile' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBScalable Vector Graphics' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+msg_translate: ERROR: message 174 not found in file 62 ("favorites"). 
+msg_translate: ERROR: message 175 not found in file 62 ("favorites"). 
+msg_translate: ERROR: message 174 not found in file 62 ("favorites"). 
+msg_translate: ERROR: message 175 not found in file 62 ("favorites"). 
+browser_get_type_sysdep:  type = 1 (INFO MESSAGE)
+pglSetStatus: PglWindowEndNoGraphics: Not in nographics mode.
+pro_locate_colormap ()
+located color definition G:\proewildfire5.0\proeWildfire 5.0\graphic-library\appearances\appearance.dmt
+pro_locate_colormap ()
+located color definition G:\proewildfire5.0\proeWildfire 5.0\graphic-library\appearances\global.dmt
+
+ run mode = 3
+msg_translate: ERROR: message 174 not found in file 62 ("favorites"). 
+msg_translate: ERROR: message 175 not found in file 62 ("favorites"). 
+msg_translate: ERROR: message 174 not found in file 62 ("favorites"). 
+msg_translate: ERROR: message 175 not found in file 62 ("favorites"). 
+msg_translate: ERROR: message 212 not found in file 29 ("uitools"). 
+msg_translate: ERROR: message 211 not found in file 29 ("uitools"). 
+msg_translate: ERROR: message 213 not found in file 29 ("uitools"). 
+
+retrieving assembly 6207-zhu-cheng-zuo ...
+deactivate_lazy_retrieve:  Model is not in memory (ORDER_DEBUG)
+pfa_set_content_hints:  leaving default-enhanced-realism.scn alone (INFO MESSAGE)
+pfa_set_content_hints:  leaving default-enhanced-realism.scn alone (INFO MESSAGE)
+pglSetStatus: Pgl Session Terminate
