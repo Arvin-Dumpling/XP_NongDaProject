@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: b9f84ea697a3e534f8b941e5bcc37eec
+timeCreated: 1515657081
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1-14_asm
+    100002: 114-1
+    100004: 114-1 1
+    100006: 114-2
+    100008: 114-2 1
+    100010: 114-3
+    100012: 114-3 1
+    100014: 4lz1-6--1-9--2
+    100016: 4lz1-6--1-9--2 1
+    100018: 4lz1-6--1-9--2_cpy_1
+    100020: 4lz1-6--1-9--2_cpy_1 1
+    100022: 4lz1-6--1-9--2_cpy_10
+    100024: 4lz1-6--1-9--2_cpy_10 1
+    100026: 4lz1-6--1-9--2_cpy_11
+    100028: 4lz1-6--1-9--2_cpy_11 1
+    100030: 4lz1-6--1-9--2_cpy_12
+    100032: 4lz1-6--1-9--2_cpy_12 1
+    100034: 4lz1-6--1-9--2_cpy_13
+    100036: 4lz1-6--1-9--2_cpy_13 1
+    100038: 4lz1-6--1-9--2_cpy_14
+    100040: 4lz1-6--1-9--2_cpy_14 1
+    100042: 4lz1-6--1-9--2_cpy_15
+    100044: 4lz1-6--1-9--2_cpy_15 1
+    100046: 4lz1-6--1-9--2_cpy_16
+    100048: 4lz1-6--1-9--2_cpy_16 1
+    100050: 4lz1-6--1-9--2_cpy_17
+    100052: 4lz1-6--1-9--2_cpy_17 1
+    100054: 4lz1-6--1-9--2_cpy_18
+    100056: 4lz1-6--1-9--2_cpy_18 1
+    100058: 4lz1-6--1-9--2_cpy_19
+    100060: 4lz1-6--1-9--2_cpy_19 1
+    100062: 4lz1-6--1-9--2_cpy_2
+    100064: 4lz1-6--1-9--2_cpy_2 1
+    100066: 4lz1-6--1-9--2_cpy_3
+    100068: 4lz1-6--1-9--2_cpy_3 1
+    100070: 4lz1-6--1-9--2_cpy_4
+    100072: 4lz1-6--1-9--2_cpy_4 1
+    100074: 4lz1-6--1-9--2_cpy_5
+    100076: 4lz1-6--1-9--2_cpy_5 1
+    100078: 4lz1-6--1-9--2_cpy_6
+    100080: 4lz1-6--1-9--2_cpy_6 1
+    100082: 4lz1-6--1-9--2_cpy_7
+    100084: 4lz1-6--1-9--2_cpy_7 1
+    100086: 4lz1-6--1-9--2_cpy_8
+    100088: 4lz1-6--1-9--2_cpy_8 1
+    100090: 4lz1-6--1-9--2_cpy_9
+    100092: 4lz1-6--1-9--2_cpy_9 1
+    100094: bahechiganhanhe_asm
+    100096: bahechiganhanhe_asm_cpy_1
+    100098: bahechiganhanhe_asm_cpy_2
+    100100: bahechiganhanhe_asm_cpy_3
+    100102: bahechiganhanhe_asm_cpy_4
+    100104: bahelunjiepan
+    100106: bahelunjiepan 1
+    100108: bahelunjiepan_cpy_1
+    100110: bahelunjiepan_cpy_1 1
+    100112: bahelunjiepan_cpy_2
+    100114: bahelunjiepan_cpy_2 1
+    100116: bahelunzhuzhouhanhe_asm
+    100118: bohelunzhuangpeitu_asm
+    100120: caogang
+    100122: caogang 1
+    100124: changzhou
+    100126: changzhou 1
+    100128: chiban
+    100130: chiban 1
+    100132: chiganguanzhou
+    100134: chiganguanzhou 1
+    100136: chiganguanzhou_cpy_002
+    100138: chiganguanzhou_cpy_003
+    100140: chiganguanzhou_cpy_1
+    100142: chiganguanzhou_cpy_1 1
+    100144: chiganguanzhou_cpy_2
+    100146: chiganguanzhou_cpy_2 1
+    100148: chiganguanzhou_cpy_3
+    100150: chiganguanzhou_cpy_3 1
+    100152: chiganguanzhou_cpy_4
+    100154: chiganguanzhou_cpy_4 1
+    100156: dangquan
+    100158: dangquan 1
+    100160: dangquan_cpy_1
+    100162: dangquan_cpy_1 1
+    100164: dangquan_cpy_10
+    100166: dangquan_cpy_10 1
+    100168: dangquan_cpy_11
+    100170: dangquan_cpy_11 1
+    100172: dangquan_cpy_12
+    100174: dangquan_cpy_12 1
+    100176: dangquan_cpy_13
+    100178: dangquan_cpy_13 1
+    100180: dangquan_cpy_14
+    100182: dangquan_cpy_14 1
+    100184: dangquan_cpy_15
+    100186: dangquan_cpy_15 1
+    100188: dangquan_cpy_16
+    100190: dangquan_cpy_16 1
+    100192: dangquan_cpy_17
+    100194: dangquan_cpy_17 1
+    100196: dangquan_cpy_18
+    100198: dangquan_cpy_18 1
+    100200: dangquan_cpy_19
+    100202: dangquan_cpy_19 1
+    100204: dangquan_cpy_2
+    100206: dangquan_cpy_2 1
+    100208: dangquan_cpy_20
+    100210: dangquan_cpy_20 1
+    100212: dangquan_cpy_21
+    100214: dangquan_cpy_21 1
+    100216: dangquan_cpy_22
+    100218: dangquan_cpy_22 1
+    100220: dangquan_cpy_23
+    100222: dangquan_cpy_23 1
+    100224: dangquan_cpy_24
+    100226: dangquan_cpy_24 1
+    100228: dangquan_cpy_3
+    100230: dangquan_cpy_3 1
+    100232: dangquan_cpy_4
+    100234: dangquan_cpy_4 1
+    100236: dangquan_cpy_5
+    100238: dangquan_cpy_5 1
+    100240: dangquan_cpy_6
+    100242: dangquan_cpy_6 1
+    100244: dangquan_cpy_7
+    100246: dangquan_cpy_7 1
+    100248: dangquan_cpy_8
+    100250: dangquan_cpy_8 1
+    100252: dangquan_cpy_9
+    100254: dangquan_cpy_9 1
+    100256: dingdaozujian_asm
+    100258: DirectConnectNode_001
+    100260: DirectConnectNode_003
+    100262: DirectConnectNode_004
+    100264: DirectConnectNode_005
+    100266: DirectConnectNode_006
+    100268: DirectConnectNode_007
+    100270: DirectConnectNode_008
+    100272: DirectConnectNode_009
+    100274: DirectConnectNode_010
+    100276: DirectConnectNode_011
+    100278: DirectConnectNode_012
+    100280: DirectConnectNode_013
+    100282: DirectConnectNode_014
+    100284: DirectConnectNode_015
+    100286: DirectConnectNode_016
+    100288: DirectConnectNode_017
+    100290: DirectConnectNode_018
+    100292: DirectConnectNode_019
+    100294: DirectConnectNode_020
+    100296: DirectConnectNode_021
+    100298: DirectConnectNode_022
+    100300: DirectConnectNode_023
+    100302: DirectConnectNode_024
+    100304: DirectConnectNode_025
+    100306: DirectConnectNode_026
+    100308: DirectConnectNode_027
+    100310: DirectConnectNode_028
+    100312: DirectConnectNode_029
+    100314: DirectConnectNode_030
+    100316: DirectConnectNode_031
+    100318: DirectConnectNode_032
+    100320: DirectConnectNode_033
+    100322: DirectConnectNode_034
+    100324: DirectConnectNode_035
+    100326: DirectConnectNode_036
+    100328: DirectConnectNode_037
+    100330: DirectConnectNode_038
+    100332: DirectConnectNode_039
+    100334: DirectConnectNode_040
+    100336: DirectConnectNode_041
+    100338: DirectConnectNode_042
+    100340: DirectConnectNode_043
+    100342: DirectConnectNode_044
+    100344: DirectConnectNode_045
+    100346: DirectConnectNode_046
+    100348: DirectConnectNode_047
+    100350: DirectConnectNode_048
+    100352: DirectConnectNode_049
+    100354: DirectConnectNode_050
+    100356: DirectConnectNode_051
+    100358: DirectConnectNode_052
+    100360: DirectConnectNode_053
+    100362: DirectConnectNode_054
+    100364: DirectConnectNode_055
+    100366: DirectConnectNode_056
+    100368: DirectConnectNode_057
+    100370: DirectConnectNode_058
+    100372: DirectConnectNode_059
+    100374: DirectConnectNode_060
+    100376: DirectConnectNode_061
+    100378: DirectConnectNode_062
+    100380: DirectConnectNode_063
+    100382: DirectConnectNode_064
+    100384: DirectConnectNode_065
+    100386: DirectConnectNode_066
+    100388: DirectConnectNode_067
+    100390: DirectConnectNode_068
+    100392: DirectConnectNode_069
+    100394: DirectConnectNode_070
+    100396: DirectConnectNode_071
+    100398: DirectConnectNode_072
+    100400: DirectConnectNode_073
+    100402: DirectConnectNode_074
+    100404: DirectConnectNode_075
+    100406: DirectConnectNode_076
+    100408: DirectConnectNode_077
+    100410: DirectConnectNode_078
+    100412: DirectConnectNode_079
+    100414: DirectConnectNode_080
+    100416: DirectConnectNode_081
+    100418: DirectConnectNode_082
+    100420: DirectConnectNode_083
+    100422: DirectConnectNode_084
+    100424: DirectConnectNode_085
+    100426: DirectConnectNode_086
+    100428: DirectConnectNode_087
+    100430: DirectConnectNode_088
+    100432: DirectConnectNode_089
+    100434: DirectConnectNode_090
+    100436: DirectConnectNode_091
+    100438: DirectConnectNode_092
+    100440: DirectConnectNode_093
+    100442: DirectConnectNode_094
+    100444: DirectConnectNode_095
+    100446: DirectConnectNode_096
+    100448: DirectConnectNode_097
+    100450: DirectConnectNode_098
+    100452: DirectConnectNode_099
+    100454: DirectConnectNode_100
+    100456: DirectConnectNode_101
+    100458: DirectConnectNode_102
+    100460: DirectConnectNode_103
+    100462: DirectConnectNode_104
+    100464: DirectConnectNode_105
+    100466: DirectConnectNode_106
+    100468: DirectConnectNode_107
+    100470: DirectConnectNode_108
+    100472: DirectConnectNode_2
+    100474: DirectConnectNode_2-DC_Shell
+    100476: DirectConnectNode_2-DC_Shell 1
+    100478: DirectConnectNode_2-DC_Shell 10
+    100480: DirectConnectNode_2-DC_Shell 11
+    100482: DirectConnectNode_2-DC_Shell 12
+    100484: DirectConnectNode_2-DC_Shell 13
+    100486: DirectConnectNode_2-DC_Shell 14
+    100488: DirectConnectNode_2-DC_Shell 15
+    100490: DirectConnectNode_2-DC_Shell 16
+    100492: DirectConnectNode_2-DC_Shell 17
+    100494: DirectConnectNode_2-DC_Shell 18
+    100496: DirectConnectNode_2-DC_Shell 19
+    100498: DirectConnectNode_2-DC_Shell 2
+    100500: DirectConnectNode_2-DC_Shell 20
+    100502: DirectConnectNode_2-DC_Shell 21
+    100504: DirectConnectNode_2-DC_Shell 22
+    100506: DirectConnectNode_2-DC_Shell 23
+    100508: DirectConnectNode_2-DC_Shell 24
+    100510: DirectConnectNode_2-DC_Shell 25
+    100512: DirectConnectNode_2-DC_Shell 26
+    100514: DirectConnectNode_2-DC_Shell 27
+    100516: DirectConnectNode_2-DC_Shell 28
+    100518: DirectConnectNode_2-DC_Shell 29
+    100520: DirectConnectNode_2-DC_Shell 3
+    100522: DirectConnectNode_2-DC_Shell 30
+    100524: DirectConnectNode_2-DC_Shell 31
+    100526: DirectConnectNode_2-DC_Shell 32
+    100528: DirectConnectNode_2-DC_Shell 33
+    100530: DirectConnectNode_2-DC_Shell 34
+    100532: DirectConnectNode_2-DC_Shell 35
+    100534: DirectConnectNode_2-DC_Shell 36
+    100536: DirectConnectNode_2-DC_Shell 37
+    100538: DirectConnectNode_2-DC_Shell 38
+    100540: DirectConnectNode_2-DC_Shell 39
+    100542: DirectConnectNode_2-DC_Shell 4
+    100544: DirectConnectNode_2-DC_Shell 40
+    100546: DirectConnectNode_2-DC_Shell 41
+    100548: DirectConnectNode_2-DC_Shell 42
+    100550: DirectConnectNode_2-DC_Shell 43
+    100552: DirectConnectNode_2-DC_Shell 44
+    100554: DirectConnectNode_2-DC_Shell 45
+    100556: DirectConnectNode_2-DC_Shell 46
+    100558: DirectConnectNode_2-DC_Shell 47
+    100560: DirectConnectNode_2-DC_Shell 48
+    100562: DirectConnectNode_2-DC_Shell 49
+    100564: DirectConnectNode_2-DC_Shell 5
+    100566: DirectConnectNode_2-DC_Shell 50
+    100568: DirectConnectNode_2-DC_Shell 51
+    100570: DirectConnectNode_2-DC_Shell 52
+    100572: DirectConnectNode_2-DC_Shell 53
+    100574: DirectConnectNode_2-DC_Shell 54
+    100576: DirectConnectNode_2-DC_Shell 55
+    100578: DirectConnectNode_2-DC_Shell 56
+    100580: DirectConnectNode_2-DC_Shell 57
+    100582: DirectConnectNode_2-DC_Shell 58
+    100584: DirectConnectNode_2-DC_Shell 59
+    100586: DirectConnectNode_2-DC_Shell 6
+    100588: DirectConnectNode_2-DC_Shell 60
+    100590: DirectConnectNode_2-DC_Shell 61
+    100592: DirectConnectNode_2-DC_Shell 62
+    100594: DirectConnectNode_2-DC_Shell 63
+    100596: DirectConnectNode_2-DC_Shell 64
+    100598: DirectConnectNode_2-DC_Shell 65
+    100600: DirectConnectNode_2-DC_Shell 66
+    100602: DirectConnectNode_2-DC_Shell 67
+    100604: DirectConnectNode_2-DC_Shell 68
+    100606: DirectConnectNode_2-DC_Shell 69
+    100608: DirectConnectNode_2-DC_Shell 7
+    100610: DirectConnectNode_2-DC_Shell 70
+    100612: DirectConnectNode_2-DC_Shell 71
+    100614: DirectConnectNode_2-DC_Shell 72
+    100616: DirectConnectNode_2-DC_Shell 73
+    100618: DirectConnectNode_2-DC_Shell 74
+    100620: DirectConnectNode_2-DC_Shell 75
+    100622: DirectConnectNode_2-DC_Shell 76
+    100624: DirectConnectNode_2-DC_Shell 77
+    100626: DirectConnectNode_2-DC_Shell 78
+    100628: DirectConnectNode_2-DC_Shell 79
+    100630: DirectConnectNode_2-DC_Shell 8
+    100632: DirectConnectNode_2-DC_Shell 80
+    100634: DirectConnectNode_2-DC_Shell 81
+    100636: DirectConnectNode_2-DC_Shell 82
+    100638: DirectConnectNode_2-DC_Shell 83
+    100640: DirectConnectNode_2-DC_Shell 84
+    100642: DirectConnectNode_2-DC_Shell 85
+    100644: DirectConnectNode_2-DC_Shell 86
+    100646: DirectConnectNode_2-DC_Shell 87
+    100648: DirectConnectNode_2-DC_Shell 88
+    100650: DirectConnectNode_2-DC_Shell 89
+    100652: DirectConnectNode_2-DC_Shell 9
+    100654: DirectConnectNode_2-DC_Shell 90
+    100656: DirectConnectNode_2-DC_Shell 91
+    100658: DirectConnectNode_2-DC_Shell 92
+    100660: DirectConnectNode_2-DC_Shell 93
+    100662: DirectConnectNode_2-DC_Shell 94
+    100664: DirectConnectNode_2-DC_Shell 95
+    100666: DirectConnectNode_2-DC_Shell 96
+    100668: DirectConnectNode_2-DC_Shell 97
+    100670: DirectConnectNode_3
+    100672: DirectConnectNode_3-DC_Shell
+    100674: DirectConnectNode_3-DC_Shell 1
+    100676: DirectConnectNode_3-DC_Shell 2
+    100678: DirectConnectNode_3-DC_Shell 3
+    100680: DirectConnectNode_3-DC_Shell 4
+    100682: DirectConnectNode_3-DC_Shell 5
+    100684: DirectConnectNode_3-DC_Shell 6
+    100686: DirectConnectNode_3-DC_Shell 7
+    100688: DirectConnectNode_3-DC_Shell 8
+    100690: DirectConnectNode_3-DC_Shell 9
+    100692: DirectConnectNode_6
+    100694: DirectConnectNode_6-DC_Shell
+    100696: DirectConnectNode_6-DC_Shell 1
+    100698: DirectConnectNode_6-DC_Shell 10
+    100700: DirectConnectNode_6-DC_Shell 11
+    100702: DirectConnectNode_6-DC_Shell 12
+    100704: DirectConnectNode_6-DC_Shell 13
+    100706: DirectConnectNode_6-DC_Shell 14
+    100708: DirectConnectNode_6-DC_Shell 15
+    100710: DirectConnectNode_6-DC_Shell 16
+    100712: DirectConnectNode_6-DC_Shell 17
+    100714: DirectConnectNode_6-DC_Shell 18
+    100716: DirectConnectNode_6-DC_Shell 19
+    100718: DirectConnectNode_6-DC_Shell 2
+    100720: DirectConnectNode_6-DC_Shell 20
+    100722: DirectConnectNode_6-DC_Shell 21
+    100724: DirectConnectNode_6-DC_Shell 22
+    100726: DirectConnectNode_6-DC_Shell 23
+    100728: DirectConnectNode_6-DC_Shell 24
+    100730: DirectConnectNode_6-DC_Shell 25
+    100732: DirectConnectNode_6-DC_Shell 26
+    100734: DirectConnectNode_6-DC_Shell 27
+    100736: DirectConnectNode_6-DC_Shell 28
+    100738: DirectConnectNode_6-DC_Shell 29
+    100740: DirectConnectNode_6-DC_Shell 3
+    100742: DirectConnectNode_6-DC_Shell 30
+    100744: DirectConnectNode_6-DC_Shell 31
+    100746: DirectConnectNode_6-DC_Shell 32
+    100748: DirectConnectNode_6-DC_Shell 33
+    100750: DirectConnectNode_6-DC_Shell 34
+    100752: DirectConnectNode_6-DC_Shell 4
+    100754: DirectConnectNode_6-DC_Shell 5
+    100756: DirectConnectNode_6-DC_Shell 6
+    100758: DirectConnectNode_6-DC_Shell 7
+    100760: DirectConnectNode_6-DC_Shell 8
+    100762: DirectConnectNode_6-DC_Shell 9
+    100764: dongdao1
+    100766: dongdao1 1
+    100768: duangai
+    100770: duangai 1
+    100772: duanzhou
+    100774: duanzhou 1
+    100776: //RootNode
+    100778: getaihouduanban
+    100780: getaihouduanban 1
+    100782: getaijiaolongpidailun
+    100784: getaijiaolongpidailun 1
+    100786: guaibiduangai
+    100788: guaibiduangai 1
+    100790: guaibizujian_asm
+    100792: guibizhou
+    100794: guibizhou 1
+    100796: guibizhouchengzuo
+    100798: guibizhouchengzuo 1
+    100800: guntongti2
+    100802: guntongti2 1
+    100804: guntongtihanhe_asm
+    100806: hurenqiliang
+    100808: hurenqiliang 1
+    100810: IGES Model Data
+    100812: IGES Model Data001
+    100814: IGES Model Data002
+    100816: IGES Model Data003
+    100818: IGES Model Data004
+    100820: IGES Model Data005
+    100822: IGES Model Data006
+    100824: IGES Model Data007
+    100826: IGES Model Data008
+    100828: IGES Model Data009
+    100830: IGES Model Data010
+    100832: IGES Model Data011
+    100834: IGES Model Data012
+    100836: IGES Model Data013
+    100838: IGES Model Data014
+    100840: IGES Model Data015
+    100842: IGES Model Data016
+    100844: IGES Model Data017
+    100846: IGES Model Data018
+    100848: IGES Model Data019
+    100850: IGES Model Data020
+    100852: IGES Model Data021
+    100854: IGES Model Data022
+    100856: IGES Model Data023
+    100858: IGES Model Data024
+    100860: IGES Model Data025
+    100862: IGES Model Data026
+    100864: IGES Model Data027
+    100866: IGES Model Data028
+    100868: IGES Model Data029
+    100870: IGES Model Data030
+    100872: IGES Model Data031
+    100874: IGES Model Data032
+    100876: IGES Model Data033
+    100878: IGES Model Data034
+    100880: IGES Model Data035
+    100882: IGES Model Data036
+    100884: IGES Model Data037
+    100886: IGES Model Data038
+    100888: IGES Model Data039
+    100890: IGES Model Data040
+    100892: IGES Model Data041
+    100894: IGES Model Data042
+    100896: IGES Model Data043
+    100898: IGES Model Data044
+    100900: IGES Model Data045
+    100902: IGES Model Data046
+    100904: IGES Model Data047
+    100906: IGES Model Data048
+    100908: IGES Model Data049
+    100910: IGES Model Data050
+    100912: IGES Model Data051
+    100914: IGES Model Data052
+    100916: IGES Model Data053
+    100918: IGES Model Data054
+    100920: IGES Model Data055
+    100922: IGES Model Data056
+    100924: IGES Model Data057
+    100926: IGES Model Data058
+    100928: IGES Model Data059
+    100930: IGES Model Data060
+    100932: IGES Model Data061
+    100934: IGES Model Data062
+    100936: IGES Model Data063
+    100938: IGES Model Data064
+    100940: IGES Model Data065
+    100942: IGES Model Data066
+    100944: IGES Model Data067
+    100946: IGES Model Data068
+    100948: IGES Model Data069
+    100950: IGES Model Data070
+    100952: IGES Model Data071
+    100954: IGES Model Data072
+    100956: IGES Model Data073
+    100958: IGES Model Data074
+    100960: IGES Model Data075
+    100962: IGES Model Data076
+    100964: IGES Model Data077
+    100966: IGES Model Data078
+    100968: IGES Model Data079
+    100970: IGES Model Data080
+    100972: IGES Model Data081
+    100974: IGES Model Data082
+    100976: IGES Model Data083
+    100978: IGES Model Data084
+    100980: IGES Model Data085
+    100982: IGES Model Data086
+    100984: IGES Model Data087
+    100986: IGES Model Data088
+    100988: IGES Model Data089
+    100990: IGES Model Data090
+    100992: IGES Model Data091
+    100994: IGES Model Data092
+    100996: IGES Model Data093
+    100998: IGES Model Data094
+    101000: IGES Model Data095
+    101002: IGES Model Data096
+    101004: IGES Model Data097
+    101006: IGES Model Data098
+    101008: IGES Model Data099
+    101010: IGES Model Data100
+    101012: IGES Model Data101
+    101014: IGES Model Data102
+    101016: IGES Model Data103
+    101018: IGES Model Data104
+    101020: IGES Model Data105
+    101022: IGES Model Data106
+    101024: IGES Model Data107
+    101026: IGES Model Data108
+    101028: IGES Model Data109
+    101030: IGES Model Data110
+    101032: IGES Model Data111
+    101034: IGES Model Data112
+    101036: IGES Model Data113
+    101038: IGES Model Data114
+    101040: IGES Model Data115
+    101042: IGES Model Data116
+    101044: IGES Model Data117
+    101046: IGES Model Data118
+    101048: IGES Model Data119
+    101050: IGES Model Data120
+    101052: IGES Model Data121
+    101054: IGES Model Data122
+    101056: IGES Model Data123
+    101058: IGES Model Data124
+    101060: IGES Model Data125
+    101062: IGES Model Data126
+    101064: IGES Model Data127
+    101066: IGES Model Data128
+    101068: jijia
+    101070: jijia 1
+    101072: jijia_cpy_1
+    101074: jijia_cpy_1 1
+    101076: ketiaolougan1
+    101078: ketiaolougan1 1
+    101080: lianganzujian_asm
+    101082: neicedaoxiangbiangang
+    101084: neicedaoxiangbiangang 1
+    101086: pianxinguaibi
+    101088: pianxinguaibi 1
+    101090: pianxinguaibi_cpy_1
+    101092: pianxinguaibi_cpy_1 1
+    101094: pianxinguaibi_cpy_2
+    101096: pianxinguaibi_cpy_2 1
+    101098: pianxinguaibi_cpy_3
+    101100: pianxinguaibi_cpy_3 1
+    101102: pianxinguaibi_cpy_4
+    101104: pianxinguaibi_cpy_4 1
+    101106: pianxinlunzhuzhou
+    101108: pianxinlunzhuzhou 1
+    101110: qiujiaozhichenggai
+    101112: qiujiaozhichenggai 1
+    101114: sanjiaoxinglianjieban
+    101116: sanjiaoxinglianjieban 1
+    101118: sanjiaoxinglianjieban_cpy_1
+    101120: sanjiaoxinglianjieban_cpy_1 1
+    101122: shusongcaojieban
+    101124: shusongcaojieban 1
+    101126: taotong
+    101128: taotong 1
+    101130: waifenhetiao
+    101132: waifenhetiao 1
+    101134: wanbi
+    101136: wanbi 1
+    101138: xianweitao
+    101140: xianweitao 1
+    101142: xianweitao_cpy_1
+    101144: xianweitao_cpy_1 1
+    101146: xiaozhou
+    101148: xiaozhou 1
+    101150: youbahehanhe_asm
+    101152: youbahehanhe_asm_cpy_1
+    101154: youbahelunfu
+    101156: youbahelunfu 1
+    101158: youbahelunfu_cpy_1
+    101160: youbahelunfu_cpy_1 1
+    101162: youbahelunfu_cpy_2
+    101164: youbahelunfu_cpy_2 1
+    101166: youbahelunfu_cpy_3
+    101168: youbahelunfu_cpy_3 1
+    101170: youbahelunfu_cpy_4
+    101172: youbahelunfu_cpy_4 1
+    101174: youbahelunfu_cpy_5
+    101176: youbahelunfu_cpy_5 1
+    101178: youbahelunfu_cpy_6
+    101180: youbahelunfu_cpy_6 1
+    101182: youduanban
+    101184: youduanban 1
+    101186: youduanban_cpy_1
+    101188: youduanban_cpy_1 1
+    101190: youfenhejian
+    101192: youfenhejian 1
+    101194: youfenhejianqiguaban
+    101196: youfenhejianqiguaban 1
+    101198: youfenheqihanhe_asm
+    101200: youfupan
+    101202: youfupan 1
+    101204: youfupanhanhe_asm
+    101206: youlianjiejiaogang
+    101208: youlianjiejiaogang 1
+    101210: zhibi
+    101212: zhibi 1
+    101214: zhongjianzhou
+    101216: zhongjianzhou 1
+    101218: zhongjianzhoudailun
+    101220: zhongjianzhoudailun 1
+    101222: zhongjigetaui_asm
+    101224: zhouzuo
+    101226: zhouzuo 1
+    101228: zhouzuo_cpy_1
+    101230: zhouzuo_cpy_1 1
+    101232: zuobahehanhe_asm
+    101234: zuoduanban
+    101236: zuoduanban 1
+    101238: zuofupan
+    101240: zuofupan 1
+    101242: zuofupanhanhe_asm
+    400000: 1-14_asm
+    400002: 114-1
+    400004: 114-1 1
+    400006: 114-2
+    400008: 114-2 1
+    400010: 114-3
+    400012: 114-3 1
+    400014: 4lz1-6--1-9--2
+    400016: 4lz1-6--1-9--2 1
+    400018: 4lz1-6--1-9--2_cpy_1
+    400020: 4lz1-6--1-9--2_cpy_1 1
+    400022: 4lz1-6--1-9--2_cpy_10
+    400024: 4lz1-6--1-9--2_cpy_10 1
+    400026: 4lz1-6--1-9--2_cpy_11
+    400028: 4lz1-6--1-9--2_cpy_11 1
+    400030: 4lz1-6--1-9--2_cpy_12
+    400032: 4lz1-6--1-9--2_cpy_12 1
+    400034: 4lz1-6--1-9--2_cpy_13
+    400036: 4lz1-6--1-9--2_cpy_13 1
+    400038: 4lz1-6--1-9--2_cpy_14
+    400040: 4lz1-6--1-9--2_cpy_14 1
+    400042: 4lz1-6--1-9--2_cpy_15
+    400044: 4lz1-6--1-9--2_cpy_15 1
+    400046: 4lz1-6--1-9--2_cpy_16
+    400048: 4lz1-6--1-9--2_cpy_16 1
+    400050: 4lz1-6--1-9--2_cpy_17
+    400052: 4lz1-6--1-9--2_cpy_17 1
+    400054: 4lz1-6--1-9--2_cpy_18
+    400056: 4lz1-6--1-9--2_cpy_18 1
+    400058: 4lz1-6--1-9--2_cpy_19
+    400060: 4lz1-6--1-9--2_cpy_19 1
+    400062: 4lz1-6--1-9--2_cpy_2
+    400064: 4lz1-6--1-9--2_cpy_2 1
+    400066: 4lz1-6--1-9--2_cpy_3
+    400068: 4lz1-6--1-9--2_cpy_3 1
+    400070: 4lz1-6--1-9--2_cpy_4
+    400072: 4lz1-6--1-9--2_cpy_4 1
+    400074: 4lz1-6--1-9--2_cpy_5
+    400076: 4lz1-6--1-9--2_cpy_5 1
+    400078: 4lz1-6--1-9--2_cpy_6
+    400080: 4lz1-6--1-9--2_cpy_6 1
+    400082: 4lz1-6--1-9--2_cpy_7
+    400084: 4lz1-6--1-9--2_cpy_7 1
+    400086: 4lz1-6--1-9--2_cpy_8
+    400088: 4lz1-6--1-9--2_cpy_8 1
+    400090: 4lz1-6--1-9--2_cpy_9
+    400092: 4lz1-6--1-9--2_cpy_9 1
+    400094: bahechiganhanhe_asm
+    400096: bahechiganhanhe_asm_cpy_1
+    400098: bahechiganhanhe_asm_cpy_2
+    400100: bahechiganhanhe_asm_cpy_3
+    400102: bahechiganhanhe_asm_cpy_4
+    400104: bahelunjiepan
+    400106: bahelunjiepan 1
+    400108: bahelunjiepan_cpy_1
+    400110: bahelunjiepan_cpy_1 1
+    400112: bahelunjiepan_cpy_2
+    400114: bahelunjiepan_cpy_2 1
+    400116: bahelunzhuzhouhanhe_asm
+    400118: bohelunzhuangpeitu_asm
+    400120: caogang
+    400122: caogang 1
+    400124: changzhou
+    400126: changzhou 1
+    400128: chiban
+    400130: chiban 1
+    400132: chiganguanzhou
+    400134: chiganguanzhou 1
+    400136: chiganguanzhou_cpy_002
+    400138: chiganguanzhou_cpy_003
+    400140: chiganguanzhou_cpy_1
+    400142: chiganguanzhou_cpy_1 1
+    400144: chiganguanzhou_cpy_2
+    400146: chiganguanzhou_cpy_2 1
+    400148: chiganguanzhou_cpy_3
+    400150: chiganguanzhou_cpy_3 1
+    400152: chiganguanzhou_cpy_4
+    400154: chiganguanzhou_cpy_4 1
+    400156: dangquan
+    400158: dangquan 1
+    400160: dangquan_cpy_1
+    400162: dangquan_cpy_1 1
+    400164: dangquan_cpy_10
+    400166: dangquan_cpy_10 1
+    400168: dangquan_cpy_11
+    400170: dangquan_cpy_11 1
+    400172: dangquan_cpy_12
+    400174: dangquan_cpy_12 1
+    400176: dangquan_cpy_13
+    400178: dangquan_cpy_13 1
+    400180: dangquan_cpy_14
+    400182: dangquan_cpy_14 1
+    400184: dangquan_cpy_15
+    400186: dangquan_cpy_15 1
+    400188: dangquan_cpy_16
+    400190: dangquan_cpy_16 1
+    400192: dangquan_cpy_17
+    400194: dangquan_cpy_17 1
+    400196: dangquan_cpy_18
+    400198: dangquan_cpy_18 1
+    400200: dangquan_cpy_19
+    400202: dangquan_cpy_19 1
+    400204: dangquan_cpy_2
+    400206: dangquan_cpy_2 1
+    400208: dangquan_cpy_20
+    400210: dangquan_cpy_20 1
+    400212: dangquan_cpy_21
+    400214: dangquan_cpy_21 1
+    400216: dangquan_cpy_22
+    400218: dangquan_cpy_22 1
+    400220: dangquan_cpy_23
+    400222: dangquan_cpy_23 1
+    400224: dangquan_cpy_24
+    400226: dangquan_cpy_24 1
+    400228: dangquan_cpy_3
+    400230: dangquan_cpy_3 1
+    400232: dangquan_cpy_4
+    400234: dangquan_cpy_4 1
+    400236: dangquan_cpy_5
+    400238: dangquan_cpy_5 1
+    400240: dangquan_cpy_6
+    400242: dangquan_cpy_6 1
+    400244: dangquan_cpy_7
+    400246: dangquan_cpy_7 1
+    400248: dangquan_cpy_8
+    400250: dangquan_cpy_8 1
+    400252: dangquan_cpy_9
+    400254: dangquan_cpy_9 1
+    400256: dingdaozujian_asm
+    400258: DirectConnectNode_001
+    400260: DirectConnectNode_003
+    400262: DirectConnectNode_004
+    400264: DirectConnectNode_005
+    400266: DirectConnectNode_006
+    400268: DirectConnectNode_007
+    400270: DirectConnectNode_008
+    400272: DirectConnectNode_009
+    400274: DirectConnectNode_010
+    400276: DirectConnectNode_011
+    400278: DirectConnectNode_012
+    400280: DirectConnectNode_013
+    400282: DirectConnectNode_014
+    400284: DirectConnectNode_015
+    400286: DirectConnectNode_016
+    400288: DirectConnectNode_017
+    400290: DirectConnectNode_018
+    400292: DirectConnectNode_019
+    400294: DirectConnectNode_020
+    400296: DirectConnectNode_021
+    400298: DirectConnectNode_022
+    400300: DirectConnectNode_023
+    400302: DirectConnectNode_024
+    400304: DirectConnectNode_025
+    400306: DirectConnectNode_026
+    400308: DirectConnectNode_027
+    400310: DirectConnectNode_028
+    400312: DirectConnectNode_029
+    400314: DirectConnectNode_030
+    400316: DirectConnectNode_031
+    400318: DirectConnectNode_032
+    400320: DirectConnectNode_033
+    400322: DirectConnectNode_034
+    400324: DirectConnectNode_035
+    400326: DirectConnectNode_036
+    400328: DirectConnectNode_037
+    400330: DirectConnectNode_038
+    400332: DirectConnectNode_039
+    400334: DirectConnectNode_040
+    400336: DirectConnectNode_041
+    400338: DirectConnectNode_042
+    400340: DirectConnectNode_043
+    400342: DirectConnectNode_044
+    400344: DirectConnectNode_045
+    400346: DirectConnectNode_046
+    400348: DirectConnectNode_047
+    400350: DirectConnectNode_048
+    400352: DirectConnectNode_049
+    400354: DirectConnectNode_050
+    400356: DirectConnectNode_051
+    400358: DirectConnectNode_052
+    400360: DirectConnectNode_053
+    400362: DirectConnectNode_054
+    400364: DirectConnectNode_055
+    400366: DirectConnectNode_056
+    400368: DirectConnectNode_057
+    400370: DirectConnectNode_058
+    400372: DirectConnectNode_059
+    400374: DirectConnectNode_060
+    400376: DirectConnectNode_061
+    400378: DirectConnectNode_062
+    400380: DirectConnectNode_063
+    400382: DirectConnectNode_064
+    400384: DirectConnectNode_065
+    400386: DirectConnectNode_066
+    400388: DirectConnectNode_067
+    400390: DirectConnectNode_068
+    400392: DirectConnectNode_069
+    400394: DirectConnectNode_070
+    400396: DirectConnectNode_071
+    400398: DirectConnectNode_072
+    400400: DirectConnectNode_073
+    400402: DirectConnectNode_074
+    400404: DirectConnectNode_075
+    400406: DirectConnectNode_076
+    400408: DirectConnectNode_077
+    400410: DirectConnectNode_078
+    400412: DirectConnectNode_079
+    400414: DirectConnectNode_080
+    400416: DirectConnectNode_081
+    400418: DirectConnectNode_082
+    400420: DirectConnectNode_083
+    400422: DirectConnectNode_084
+    400424: DirectConnectNode_085
+    400426: DirectConnectNode_086
+    400428: DirectConnectNode_087
+    400430: DirectConnectNode_088
+    400432: DirectConnectNode_089
+    400434: DirectConnectNode_090
+    400436: DirectConnectNode_091
+    400438: DirectConnectNode_092
+    400440: DirectConnectNode_093
+    400442: DirectConnectNode_094
+    400444: DirectConnectNode_095
+    400446: DirectConnectNode_096
+    400448: DirectConnectNode_097
+    400450: DirectConnectNode_098
+    400452: DirectConnectNode_099
+    400454: DirectConnectNode_100
+    400456: DirectConnectNode_101
+    400458: DirectConnectNode_102
+    400460: DirectConnectNode_103
+    400462: DirectConnectNode_104
+    400464: DirectConnectNode_105
+    400466: DirectConnectNode_106
+    400468: DirectConnectNode_107
+    400470: DirectConnectNode_108
+    400472: DirectConnectNode_2
+    400474: DirectConnectNode_2-DC_Shell
+    400476: DirectConnectNode_2-DC_Shell 1
+    400478: DirectConnectNode_2-DC_Shell 10
+    400480: DirectConnectNode_2-DC_Shell 11
+    400482: DirectConnectNode_2-DC_Shell 12
+    400484: DirectConnectNode_2-DC_Shell 13
+    400486: DirectConnectNode_2-DC_Shell 14
+    400488: DirectConnectNode_2-DC_Shell 15
+    400490: DirectConnectNode_2-DC_Shell 16
+    400492: DirectConnectNode_2-DC_Shell 17
+    400494: DirectConnectNode_2-DC_Shell 18
+    400496: DirectConnectNode_2-DC_Shell 19
+    400498: DirectConnectNode_2-DC_Shell 2
+    400500: DirectConnectNode_2-DC_Shell 20
+    400502: DirectConnectNode_2-DC_Shell 21
+    400504: DirectConnectNode_2-DC_Shell 22
+    400506: DirectConnectNode_2-DC_Shell 23
+    400508: DirectConnectNode_2-DC_Shell 24
+    400510: DirectConnectNode_2-DC_Shell 25
+    400512: DirectConnectNode_2-DC_Shell 26
+    400514: DirectConnectNode_2-DC_Shell 27
+    400516: DirectConnectNode_2-DC_Shell 28
+    400518: DirectConnectNode_2-DC_Shell 29
+    400520: DirectConnectNode_2-DC_Shell 3
+    400522: DirectConnectNode_2-DC_Shell 30
+    400524: DirectConnectNode_2-DC_Shell 31
+    400526: DirectConnectNode_2-DC_Shell 32
+    400528: DirectConnectNode_2-DC_Shell 33
+    400530: DirectConnectNode_2-DC_Shell 34
+    400532: DirectConnectNode_2-DC_Shell 35
+    400534: DirectConnectNode_2-DC_Shell 36
+    400536: DirectConnectNode_2-DC_Shell 37
+    400538: DirectConnectNode_2-DC_Shell 38
+    400540: DirectConnectNode_2-DC_Shell 39
+    400542: DirectConnectNode_2-DC_Shell 4
+    400544: DirectConnectNode_2-DC_Shell 40
+    400546: DirectConnectNode_2-DC_Shell 41
+    400548: DirectConnectNode_2-DC_Shell 42
+    400550: DirectConnectNode_2-DC_Shell 43
+    400552: DirectConnectNode_2-DC_Shell 44
+    400554: DirectConnectNode_2-DC_Shell 45
+    400556: DirectConnectNode_2-DC_Shell 46
+    400558: DirectConnectNode_2-DC_Shell 47
+    400560: DirectConnectNode_2-DC_Shell 48
+    400562: DirectConnectNode_2-DC_Shell 49
+    400564: DirectConnectNode_2-DC_Shell 5
+    400566: DirectConnectNode_2-DC_Shell 50
+    400568: DirectConnectNode_2-DC_Shell 51
+    400570: DirectConnectNode_2-DC_Shell 52
+    400572: DirectConnectNode_2-DC_Shell 53
+    400574: DirectConnectNode_2-DC_Shell 54
+    400576: DirectConnectNode_2-DC_Shell 55
+    400578: DirectConnectNode_2-DC_Shell 56
+    400580: DirectConnectNode_2-DC_Shell 57
+    400582: DirectConnectNode_2-DC_Shell 58
+    400584: DirectConnectNode_2-DC_Shell 59
+    400586: DirectConnectNode_2-DC_Shell 6
+    400588: DirectConnectNode_2-DC_Shell 60
+    400590: DirectConnectNode_2-DC_Shell 61
+    400592: DirectConnectNode_2-DC_Shell 62
+    400594: DirectConnectNode_2-DC_Shell 63
+    400596: DirectConnectNode_2-DC_Shell 64
+    400598: DirectConnectNode_2-DC_Shell 65
+    400600: DirectConnectNode_2-DC_Shell 66
+    400602: DirectConnectNode_2-DC_Shell 67
+    400604: DirectConnectNode_2-DC_Shell 68
+    400606: DirectConnectNode_2-DC_Shell 69
+    400608: DirectConnectNode_2-DC_Shell 7
+    400610: DirectConnectNode_2-DC_Shell 70
+    400612: DirectConnectNode_2-DC_Shell 71
+    400614: DirectConnectNode_2-DC_Shell 72
+    400616: DirectConnectNode_2-DC_Shell 73
+    400618: DirectConnectNode_2-DC_Shell 74
+    400620: DirectConnectNode_2-DC_Shell 75
+    400622: DirectConnectNode_2-DC_Shell 76
+    400624: DirectConnectNode_2-DC_Shell 77
+    400626: DirectConnectNode_2-DC_Shell 78
+    400628: DirectConnectNode_2-DC_Shell 79
+    400630: DirectConnectNode_2-DC_Shell 8
+    400632: DirectConnectNode_2-DC_Shell 80
+    400634: DirectConnectNode_2-DC_Shell 81
+    400636: DirectConnectNode_2-DC_Shell 82
+    400638: DirectConnectNode_2-DC_Shell 83
+    400640: DirectConnectNode_2-DC_Shell 84
+    400642: DirectConnectNode_2-DC_Shell 85
+    400644: DirectConnectNode_2-DC_Shell 86
+    400646: DirectConnectNode_2-DC_Shell 87
+    400648: DirectConnectNode_2-DC_Shell 88
+    400650: DirectConnectNode_2-DC_Shell 89
+    400652: DirectConnectNode_2-DC_Shell 9
+    400654: DirectConnectNode_2-DC_Shell 90
+    400656: DirectConnectNode_2-DC_Shell 91
+    400658: DirectConnectNode_2-DC_Shell 92
+    400660: DirectConnectNode_2-DC_Shell 93
+    400662: DirectConnectNode_2-DC_Shell 94
+    400664: DirectConnectNode_2-DC_Shell 95
+    400666: DirectConnectNode_2-DC_Shell 96
+    400668: DirectConnectNode_2-DC_Shell 97
+    400670: DirectConnectNode_3
+    400672: DirectConnectNode_3-DC_Shell
+    400674: DirectConnectNode_3-DC_Shell 1
+    400676: DirectConnectNode_3-DC_Shell 2
+    400678: DirectConnectNode_3-DC_Shell 3
+    400680: DirectConnectNode_3-DC_Shell 4
+    400682: DirectConnectNode_3-DC_Shell 5
+    400684: DirectConnectNode_3-DC_Shell 6
+    400686: DirectConnectNode_3-DC_Shell 7
+    400688: DirectConnectNode_3-DC_Shell 8
+    400690: DirectConnectNode_3-DC_Shell 9
+    400692: DirectConnectNode_6
+    400694: DirectConnectNode_6-DC_Shell
+    400696: DirectConnectNode_6-DC_Shell 1
+    400698: DirectConnectNode_6-DC_Shell 10
+    400700: DirectConnectNode_6-DC_Shell 11
+    400702: DirectConnectNode_6-DC_Shell 12
+    400704: DirectConnectNode_6-DC_Shell 13
+    400706: DirectConnectNode_6-DC_Shell 14
+    400708: DirectConnectNode_6-DC_Shell 15
+    400710: DirectConnectNode_6-DC_Shell 16
+    400712: DirectConnectNode_6-DC_Shell 17
+    400714: DirectConnectNode_6-DC_Shell 18
+    400716: DirectConnectNode_6-DC_Shell 19
+    400718: DirectConnectNode_6-DC_Shell 2
+    400720: DirectConnectNode_6-DC_Shell 20
+    400722: DirectConnectNode_6-DC_Shell 21
+    400724: DirectConnectNode_6-DC_Shell 22
+    400726: DirectConnectNode_6-DC_Shell 23
+    400728: DirectConnectNode_6-DC_Shell 24
+    400730: DirectConnectNode_6-DC_Shell 25
+    400732: DirectConnectNode_6-DC_Shell 26
+    400734: DirectConnectNode_6-DC_Shell 27
+    400736: DirectConnectNode_6-DC_Shell 28
+    400738: DirectConnectNode_6-DC_Shell 29
+    400740: DirectConnectNode_6-DC_Shell 3
+    400742: DirectConnectNode_6-DC_Shell 30
+    400744: DirectConnectNode_6-DC_Shell 31
+    400746: DirectConnectNode_6-DC_Shell 32
+    400748: DirectConnectNode_6-DC_Shell 33
+    400750: DirectConnectNode_6-DC_Shell 34
+    400752: DirectConnectNode_6-DC_Shell 4
+    400754: DirectConnectNode_6-DC_Shell 5
+    400756: DirectConnectNode_6-DC_Shell 6
+    400758: DirectConnectNode_6-DC_Shell 7
+    400760: DirectConnectNode_6-DC_Shell 8
+    400762: DirectConnectNode_6-DC_Shell 9
+    400764: dongdao1
+    400766: dongdao1 1
+    400768: duangai
+    400770: duangai 1
+    400772: duanzhou
+    400774: duanzhou 1
+    400776: //RootNode
+    400778: getaihouduanban
+    400780: getaihouduanban 1
+    400782: getaijiaolongpidailun
+    400784: getaijiaolongpidailun 1
+    400786: guaibiduangai
+    400788: guaibiduangai 1
+    400790: guaibizujian_asm
+    400792: guibizhou
+    400794: guibizhou 1
+    400796: guibizhouchengzuo
+    400798: guibizhouchengzuo 1
+    400800: guntongti2
+    400802: guntongti2 1
+    400804: guntongtihanhe_asm
+    400806: hurenqiliang
+    400808: hurenqiliang 1
+    400810: IGES Model Data
+    400812: IGES Model Data001
+    400814: IGES Model Data002
+    400816: IGES Model Data003
+    400818: IGES Model Data004
+    400820: IGES Model Data005
+    400822: IGES Model Data006
+    400824: IGES Model Data007
+    400826: IGES Model Data008
+    400828: IGES Model Data009
+    400830: IGES Model Data010
+    400832: IGES Model Data011
+    400834: IGES Model Data012
+    400836: IGES Model Data013
+    400838: IGES Model Data014
+    400840: IGES Model Data015
+    400842: IGES Model Data016
+    400844: IGES Model Data017
+    400846: IGES Model Data018
+    400848: IGES Model Data019
+    400850: IGES Model Data020
+    400852: IGES Model Data021
+    400854: IGES Model Data022
+    400856: IGES Model Data023
+    400858: IGES Model Data024
+    400860: IGES Model Data025
+    400862: IGES Model Data026
+    400864: IGES Model Data027
+    400866: IGES Model Data028
+    400868: IGES Model Data029
+    400870: IGES Model Data030
+    400872: IGES Model Data031
+    400874: IGES Model Data032
+    400876: IGES Model Data033
+    400878: IGES Model Data034
+    400880: IGES Model Data035
+    400882: IGES Model Data036
+    400884: IGES Model Data037
+    400886: IGES Model Data038
+    400888: IGES Model Data039
+    400890: IGES Model Data040
+    400892: IGES Model Data041
+    400894: IGES Model Data042
+    400896: IGES Model Data043
+    400898: IGES Model Data044
+    400900: IGES Model Data045
+    400902: IGES Model Data046
+    400904: IGES Model Data047
+    400906: IGES Model Data048
+    400908: IGES Model Data049
+    400910: IGES Model Data050
+    400912: IGES Model Data051
+    400914: IGES Model Data052
+    400916: IGES Model Data053
+    400918: IGES Model Data054
+    400920: IGES Model Data055
+    400922: IGES Model Data056
+    400924: IGES Model Data057
+    400926: IGES Model Data058
+    400928: IGES Model Data059
+    400930: IGES Model Data060
+    400932: IGES Model Data061
+    400934: IGES Model Data062
+    400936: IGES Model Data063
+    400938: IGES Model Data064
+    400940: IGES Model Data065
+    400942: IGES Model Data066
+    400944: IGES Model Data067
+    400946: IGES Model Data068
+    400948: IGES Model Data069
+    400950: IGES Model Data070
+    400952: IGES Model Data071
+    400954: IGES Model Data072
+    400956: IGES Model Data073
+    400958: IGES Model Data074
+    400960: IGES Model Data075
+    400962: IGES Model Data076
+    400964: IGES Model Data077
+    400966: IGES Model Data078
+    400968: IGES Model Data079
+    400970: IGES Model Data080
+    400972: IGES Model Data081
+    400974: IGES Model Data082
+    400976: IGES Model Data083
+    400978: IGES Model Data084
+    400980: IGES Model Data085
+    400982: IGES Model Data086
+    400984: IGES Model Data087
+    400986: IGES Model Data088
+    400988: IGES Model Data089
+    400990: IGES Model Data090
+    400992: IGES Model Data091
+    400994: IGES Model Data092
+    400996: IGES Model Data093
+    400998: IGES Model Data094
+    401000: IGES Model Data095
+    401002: IGES Model Data096
+    401004: IGES Model Data097
+    401006: IGES Model Data098
+    401008: IGES Model Data099
+    401010: IGES Model Data100
+    401012: IGES Model Data101
+    401014: IGES Model Data102
+    401016: IGES Model Data103
+    401018: IGES Model Data104
+    401020: IGES Model Data105
+    401022: IGES Model Data106
+    401024: IGES Model Data107
+    401026: IGES Model Data108
+    401028: IGES Model Data109
+    401030: IGES Model Data110
+    401032: IGES Model Data111
+    401034: IGES Model Data112
+    401036: IGES Model Data113
+    401038: IGES Model Data114
+    401040: IGES Model Data115
+    401042: IGES Model Data116
+    401044: IGES Model Data117
+    401046: IGES Model Data118
+    401048: IGES Model Data119
+    401050: IGES Model Data120
+    401052: IGES Model Data121
+    401054: IGES Model Data122
+    401056: IGES Model Data123
+    401058: IGES Model Data124
+    401060: IGES Model Data125
+    401062: IGES Model Data126
+    401064: IGES Model Data127
+    401066: IGES Model Data128
+    401068: jijia
+    401070: jijia 1
+    401072: jijia_cpy_1
+    401074: jijia_cpy_1 1
+    401076: ketiaolougan1
+    401078: ketiaolougan1 1
+    401080: lianganzujian_asm
+    401082: neicedaoxiangbiangang
+    401084: neicedaoxiangbiangang 1
+    401086: pianxinguaibi
+    401088: pianxinguaibi 1
+    401090: pianxinguaibi_cpy_1
+    401092: pianxinguaibi_cpy_1 1
+    401094: pianxinguaibi_cpy_2
+    401096: pianxinguaibi_cpy_2 1
+    401098: pianxinguaibi_cpy_3
+    401100: pianxinguaibi_cpy_3 1
+    401102: pianxinguaibi_cpy_4
+    401104: pianxinguaibi_cpy_4 1
+    401106: pianxinlunzhuzhou
+    401108: pianxinlunzhuzhou 1
+    401110: qiujiaozhichenggai
+    401112: qiujiaozhichenggai 1
+    401114: sanjiaoxinglianjieban
+    401116: sanjiaoxinglianjieban 1
+    401118: sanjiaoxinglianjieban_cpy_1
+    401120: sanjiaoxinglianjieban_cpy_1 1
+    401122: shusongcaojieban
+    401124: shusongcaojieban 1
+    401126: taotong
+    401128: taotong 1
+    401130: waifenhetiao
+    401132: waifenhetiao 1
+    401134: wanbi
+    401136: wanbi 1
+    401138: xianweitao
+    401140: xianweitao 1
+    401142: xianweitao_cpy_1
+    401144: xianweitao_cpy_1 1
+    401146: xiaozhou
+    401148: xiaozhou 1
+    401150: youbahehanhe_asm
+    401152: youbahehanhe_asm_cpy_1
+    401154: youbahelunfu
+    401156: youbahelunfu 1
+    401158: youbahelunfu_cpy_1
+    401160: youbahelunfu_cpy_1 1
+    401162: youbahelunfu_cpy_2
+    401164: youbahelunfu_cpy_2 1
+    401166: youbahelunfu_cpy_3
+    401168: youbahelunfu_cpy_3 1
+    401170: youbahelunfu_cpy_4
+    401172: youbahelunfu_cpy_4 1
+    401174: youbahelunfu_cpy_5
+    401176: youbahelunfu_cpy_5 1
+    401178: youbahelunfu_cpy_6
+    401180: youbahelunfu_cpy_6 1
+    401182: youduanban
+    401184: youduanban 1
+    401186: youduanban_cpy_1
+    401188: youduanban_cpy_1 1
+    401190: youfenhejian
+    401192: youfenhejian 1
+    401194: youfenhejianqiguaban
+    401196: youfenhejianqiguaban 1
+    401198: youfenheqihanhe_asm
+    401200: youfupan
+    401202: youfupan 1
+    401204: youfupanhanhe_asm
+    401206: youlianjiejiaogang
+    401208: youlianjiejiaogang 1
+    401210: zhibi
+    401212: zhibi 1
+    401214: zhongjianzhou
+    401216: zhongjianzhou 1
+    401218: zhongjianzhoudailun
+    401220: zhongjianzhoudailun 1
+    401222: zhongjigetaui_asm
+    401224: zhouzuo
+    401226: zhouzuo 1
+    401228: zhouzuo_cpy_1
+    401230: zhouzuo_cpy_1 1
+    401232: zuobahehanhe_asm
+    401234: zuoduanban
+    401236: zuoduanban 1
+    401238: zuofupan
+    401240: zuofupan 1
+    401242: zuofupanhanhe_asm
+    2100000: No Name
+    2300000: DirectConnectNode_2-DC_Shell
+    2300002: DirectConnectNode_2-DC_Shell 1
+    2300004: DirectConnectNode_2-DC_Shell 10
+    2300006: DirectConnectNode_2-DC_Shell 11
+    2300008: DirectConnectNode_2-DC_Shell 12
+    2300010: DirectConnectNode_2-DC_Shell 13
+    2300012: DirectConnectNode_2-DC_Shell 14
+    2300014: DirectConnectNode_2-DC_Shell 15
+    2300016: DirectConnectNode_2-DC_Shell 16
+    2300018: DirectConnectNode_2-DC_Shell 17
+    2300020: DirectConnectNode_2-DC_Shell 18
+    2300022: DirectConnectNode_2-DC_Shell 19
+    2300024: DirectConnectNode_2-DC_Shell 2
+    2300026: DirectConnectNode_2-DC_Shell 20
+    2300028: DirectConnectNode_2-DC_Shell 21
+    2300030: DirectConnectNode_2-DC_Shell 22
+    2300032: DirectConnectNode_2-DC_Shell 23
+    2300034: DirectConnectNode_2-DC_Shell 24
+    2300036: DirectConnectNode_2-DC_Shell 25
+    2300038: DirectConnectNode_2-DC_Shell 26
+    2300040: DirectConnectNode_2-DC_Shell 27
+    2300042: DirectConnectNode_2-DC_Shell 28
+    2300044: DirectConnectNode_2-DC_Shell 29
+    2300046: DirectConnectNode_2-DC_Shell 3
+    2300048: DirectConnectNode_2-DC_Shell 30
+    2300050: DirectConnectNode_2-DC_Shell 31
+    2300052: DirectConnectNode_2-DC_Shell 32
+    2300054: DirectConnectNode_2-DC_Shell 33
+    2300056: DirectConnectNode_2-DC_Shell 34
+    2300058: DirectConnectNode_2-DC_Shell 35
+    2300060: DirectConnectNode_2-DC_Shell 36
+    2300062: DirectConnectNode_2-DC_Shell 37
+    2300064: DirectConnectNode_2-DC_Shell 38
+    2300066: DirectConnectNode_2-DC_Shell 39
+    2300068: DirectConnectNode_2-DC_Shell 4
+    2300070: DirectConnectNode_2-DC_Shell 40
+    2300072: DirectConnectNode_2-DC_Shell 41
+    2300074: DirectConnectNode_2-DC_Shell 42
+    2300076: DirectConnectNode_2-DC_Shell 43
+    2300078: DirectConnectNode_2-DC_Shell 44
+    2300080: DirectConnectNode_2-DC_Shell 45
+    2300082: DirectConnectNode_2-DC_Shell 46
+    2300084: DirectConnectNode_2-DC_Shell 47
+    2300086: DirectConnectNode_2-DC_Shell 48
+    2300088: DirectConnectNode_2-DC_Shell 49
+    2300090: DirectConnectNode_2-DC_Shell 5
+    2300092: DirectConnectNode_2-DC_Shell 50
+    2300094: DirectConnectNode_2-DC_Shell 51
+    2300096: DirectConnectNode_2-DC_Shell 52
+    2300098: DirectConnectNode_2-DC_Shell 53
+    2300100: DirectConnectNode_2-DC_Shell 54
+    2300102: DirectConnectNode_2-DC_Shell 55
+    2300104: DirectConnectNode_2-DC_Shell 56
+    2300106: DirectConnectNode_2-DC_Shell 57
+    2300108: DirectConnectNode_2-DC_Shell 58
+    2300110: DirectConnectNode_2-DC_Shell 59
+    2300112: DirectConnectNode_2-DC_Shell 6
+    2300114: DirectConnectNode_2-DC_Shell 60
+    2300116: DirectConnectNode_2-DC_Shell 61
+    2300118: DirectConnectNode_2-DC_Shell 62
+    2300120: DirectConnectNode_2-DC_Shell 63
+    2300122: DirectConnectNode_2-DC_Shell 64
+    2300124: DirectConnectNode_2-DC_Shell 65
+    2300126: DirectConnectNode_2-DC_Shell 66
+    2300128: DirectConnectNode_2-DC_Shell 67
+    2300130: DirectConnectNode_2-DC_Shell 68
+    2300132: DirectConnectNode_2-DC_Shell 69
+    2300134: DirectConnectNode_2-DC_Shell 7
+    2300136: DirectConnectNode_2-DC_Shell 70
+    2300138: DirectConnectNode_2-DC_Shell 71
+    2300140: DirectConnectNode_2-DC_Shell 72
+    2300142: DirectConnectNode_2-DC_Shell 73
+    2300144: DirectConnectNode_2-DC_Shell 74
+    2300146: DirectConnectNode_2-DC_Shell 75
+    2300148: DirectConnectNode_2-DC_Shell 76
+    2300150: DirectConnectNode_2-DC_Shell 77
+    2300152: DirectConnectNode_2-DC_Shell 78
+    2300154: DirectConnectNode_2-DC_Shell 79
+    2300156: DirectConnectNode_2-DC_Shell 8
+    2300158: DirectConnectNode_2-DC_Shell 80
+    2300160: DirectConnectNode_2-DC_Shell 81
+    2300162: DirectConnectNode_2-DC_Shell 82
+    2300164: DirectConnectNode_2-DC_Shell 83
+    2300166: DirectConnectNode_2-DC_Shell 84
+    2300168: DirectConnectNode_2-DC_Shell 85
+    2300170: DirectConnectNode_2-DC_Shell 86
+    2300172: DirectConnectNode_2-DC_Shell 87
+    2300174: DirectConnectNode_2-DC_Shell 88
+    2300176: DirectConnectNode_2-DC_Shell 89
+    2300178: DirectConnectNode_2-DC_Shell 9
+    2300180: DirectConnectNode_2-DC_Shell 90
+    2300182: DirectConnectNode_2-DC_Shell 91
+    2300184: DirectConnectNode_2-DC_Shell 92
+    2300186: DirectConnectNode_2-DC_Shell 93
+    2300188: DirectConnectNode_2-DC_Shell 94
+    2300190: DirectConnectNode_2-DC_Shell 95
+    2300192: DirectConnectNode_2-DC_Shell 96
+    2300194: DirectConnectNode_2-DC_Shell 97
+    2300196: DirectConnectNode_3-DC_Shell
+    2300198: DirectConnectNode_3-DC_Shell 1
+    2300200: DirectConnectNode_3-DC_Shell 2
+    2300202: DirectConnectNode_3-DC_Shell 3
+    2300204: DirectConnectNode_3-DC_Shell 4
+    2300206: DirectConnectNode_3-DC_Shell 5
+    2300208: DirectConnectNode_3-DC_Shell 6
+    2300210: DirectConnectNode_3-DC_Shell 7
+    2300212: DirectConnectNode_3-DC_Shell 8
+    2300214: DirectConnectNode_3-DC_Shell 9
+    2300216: DirectConnectNode_6-DC_Shell
+    2300218: DirectConnectNode_6-DC_Shell 1
+    2300220: DirectConnectNode_6-DC_Shell 10
+    2300222: DirectConnectNode_6-DC_Shell 11
+    2300224: DirectConnectNode_6-DC_Shell 12
+    2300226: DirectConnectNode_6-DC_Shell 13
+    2300228: DirectConnectNode_6-DC_Shell 14
+    2300230: DirectConnectNode_6-DC_Shell 15
+    2300232: DirectConnectNode_6-DC_Shell 16
+    2300234: DirectConnectNode_6-DC_Shell 17
+    2300236: DirectConnectNode_6-DC_Shell 18
+    2300238: DirectConnectNode_6-DC_Shell 19
+    2300240: DirectConnectNode_6-DC_Shell 2
+    2300242: DirectConnectNode_6-DC_Shell 20
+    2300244: DirectConnectNode_6-DC_Shell 21
+    2300246: DirectConnectNode_6-DC_Shell 22
+    2300248: DirectConnectNode_6-DC_Shell 23
+    2300250: DirectConnectNode_6-DC_Shell 24
+    2300252: DirectConnectNode_6-DC_Shell 25
+    2300254: DirectConnectNode_6-DC_Shell 26
+    2300256: DirectConnectNode_6-DC_Shell 27
+    2300258: DirectConnectNode_6-DC_Shell 28
+    2300260: DirectConnectNode_6-DC_Shell 29
+    2300262: DirectConnectNode_6-DC_Shell 3
+    2300264: DirectConnectNode_6-DC_Shell 30
+    2300266: DirectConnectNode_6-DC_Shell 31
+    2300268: DirectConnectNode_6-DC_Shell 32
+    2300270: DirectConnectNode_6-DC_Shell 33
+    2300272: DirectConnectNode_6-DC_Shell 34
+    2300274: DirectConnectNode_6-DC_Shell 4
+    2300276: DirectConnectNode_6-DC_Shell 5
+    2300278: DirectConnectNode_6-DC_Shell 6
+    2300280: DirectConnectNode_6-DC_Shell 7
+    2300282: DirectConnectNode_6-DC_Shell 8
+    2300284: DirectConnectNode_6-DC_Shell 9
+    3300000: DirectConnectNode_2-DC_Shell
+    3300002: DirectConnectNode_2-DC_Shell 1
+    3300004: DirectConnectNode_2-DC_Shell 10
+    3300006: DirectConnectNode_2-DC_Shell 11
+    3300008: DirectConnectNode_2-DC_Shell 12
+    3300010: DirectConnectNode_2-DC_Shell 13
+    3300012: DirectConnectNode_2-DC_Shell 14
+    3300014: DirectConnectNode_2-DC_Shell 15
+    3300016: DirectConnectNode_2-DC_Shell 16
+    3300018: DirectConnectNode_2-DC_Shell 17
+    3300020: DirectConnectNode_2-DC_Shell 18
+    3300022: DirectConnectNode_2-DC_Shell 19
+    3300024: DirectConnectNode_2-DC_Shell 2
+    3300026: DirectConnectNode_2-DC_Shell 20
+    3300028: DirectConnectNode_2-DC_Shell 21
+    3300030: DirectConnectNode_2-DC_Shell 22
+    3300032: DirectConnectNode_2-DC_Shell 23
+    3300034: DirectConnectNode_2-DC_Shell 24
+    3300036: DirectConnectNode_2-DC_Shell 25
+    3300038: DirectConnectNode_2-DC_Shell 26
+    3300040: DirectConnectNode_2-DC_Shell 27
+    3300042: DirectConnectNode_2-DC_Shell 28
+    3300044: DirectConnectNode_2-DC_Shell 29
+    3300046: DirectConnectNode_2-DC_Shell 3
+    3300048: DirectConnectNode_2-DC_Shell 30
+    3300050: DirectConnectNode_2-DC_Shell 31
+    3300052: DirectConnectNode_2-DC_Shell 32
+    3300054: DirectConnectNode_2-DC_Shell 33
+    3300056: DirectConnectNode_2-DC_Shell 34
+    3300058: DirectConnectNode_2-DC_Shell 35
+    3300060: DirectConnectNode_2-DC_Shell 36
+    3300062: DirectConnectNode_2-DC_Shell 37
+    3300064: DirectConnectNode_2-DC_Shell 38
+    3300066: DirectConnectNode_2-DC_Shell 39
+    3300068: DirectConnectNode_2-DC_Shell 4
+    3300070: DirectConnectNode_2-DC_Shell 40
+    3300072: DirectConnectNode_2-DC_Shell 41
+    3300074: DirectConnectNode_2-DC_Shell 42
+    3300076: DirectConnectNode_2-DC_Shell 43
+    3300078: DirectConnectNode_2-DC_Shell 44
+    3300080: DirectConnectNode_2-DC_Shell 45
+    3300082: DirectConnectNode_2-DC_Shell 46
+    3300084: DirectConnectNode_2-DC_Shell 47
+    3300086: DirectConnectNode_2-DC_Shell 48
+    3300088: DirectConnectNode_2-DC_Shell 49
+    3300090: DirectConnectNode_2-DC_Shell 5
+    3300092: DirectConnectNode_2-DC_Shell 50
+    3300094: DirectConnectNode_2-DC_Shell 51
+    3300096: DirectConnectNode_2-DC_Shell 52
+    3300098: DirectConnectNode_2-DC_Shell 53
+    3300100: DirectConnectNode_2-DC_Shell 54
+    3300102: DirectConnectNode_2-DC_Shell 55
+    3300104: DirectConnectNode_2-DC_Shell 56
+    3300106: DirectConnectNode_2-DC_Shell 57
+    3300108: DirectConnectNode_2-DC_Shell 58
+    3300110: DirectConnectNode_2-DC_Shell 59
+    3300112: DirectConnectNode_2-DC_Shell 6
+    3300114: DirectConnectNode_2-DC_Shell 60
+    3300116: DirectConnectNode_2-DC_Shell 61
+    3300118: DirectConnectNode_2-DC_Shell 62
+    3300120: DirectConnectNode_2-DC_Shell 63
+    3300122: DirectConnectNode_2-DC_Shell 64
+    3300124: DirectConnectNode_2-DC_Shell 65
+    3300126: DirectConnectNode_2-DC_Shell 66
+    3300128: DirectConnectNode_2-DC_Shell 67
+    3300130: DirectConnectNode_2-DC_Shell 68
+    3300132: DirectConnectNode_2-DC_Shell 69
+    3300134: DirectConnectNode_2-DC_Shell 7
+    3300136: DirectConnectNode_2-DC_Shell 70
+    3300138: DirectConnectNode_2-DC_Shell 71
+    3300140: DirectConnectNode_2-DC_Shell 72
+    3300142: DirectConnectNode_2-DC_Shell 73
+    3300144: DirectConnectNode_2-DC_Shell 74
+    3300146: DirectConnectNode_2-DC_Shell 75
+    3300148: DirectConnectNode_2-DC_Shell 76
+    3300150: DirectConnectNode_2-DC_Shell 77
+    3300152: DirectConnectNode_2-DC_Shell 78
+    3300154: DirectConnectNode_2-DC_Shell 79
+    3300156: DirectConnectNode_2-DC_Shell 8
+    3300158: DirectConnectNode_2-DC_Shell 80
+    3300160: DirectConnectNode_2-DC_Shell 81
+    3300162: DirectConnectNode_2-DC_Shell 82
+    3300164: DirectConnectNode_2-DC_Shell 83
+    3300166: DirectConnectNode_2-DC_Shell 84
+    3300168: DirectConnectNode_2-DC_Shell 85
+    3300170: DirectConnectNode_2-DC_Shell 86
+    3300172: DirectConnectNode_2-DC_Shell 87
+    3300174: DirectConnectNode_2-DC_Shell 88
+    3300176: DirectConnectNode_2-DC_Shell 89
+    3300178: DirectConnectNode_2-DC_Shell 9
+    3300180: DirectConnectNode_2-DC_Shell 90
+    3300182: DirectConnectNode_2-DC_Shell 91
+    3300184: DirectConnectNode_2-DC_Shell 92
+    3300186: DirectConnectNode_2-DC_Shell 93
+    3300188: DirectConnectNode_2-DC_Shell 94
+    3300190: DirectConnectNode_2-DC_Shell 95
+    3300192: DirectConnectNode_2-DC_Shell 96
+    3300194: DirectConnectNode_2-DC_Shell 97
+    3300196: DirectConnectNode_3-DC_Shell
+    3300198: DirectConnectNode_3-DC_Shell 1
+    3300200: DirectConnectNode_3-DC_Shell 2
+    3300202: DirectConnectNode_3-DC_Shell 3
+    3300204: DirectConnectNode_3-DC_Shell 4
+    3300206: DirectConnectNode_3-DC_Shell 5
+    3300208: DirectConnectNode_3-DC_Shell 6
+    3300210: DirectConnectNode_3-DC_Shell 7
+    3300212: DirectConnectNode_3-DC_Shell 8
+    3300214: DirectConnectNode_3-DC_Shell 9
+    3300216: DirectConnectNode_6-DC_Shell
+    3300218: DirectConnectNode_6-DC_Shell 1
+    3300220: DirectConnectNode_6-DC_Shell 10
+    3300222: DirectConnectNode_6-DC_Shell 11
+    3300224: DirectConnectNode_6-DC_Shell 12
+    3300226: DirectConnectNode_6-DC_Shell 13
+    3300228: DirectConnectNode_6-DC_Shell 14
+    3300230: DirectConnectNode_6-DC_Shell 15
+    3300232: DirectConnectNode_6-DC_Shell 16
+    3300234: DirectConnectNode_6-DC_Shell 17
+    3300236: DirectConnectNode_6-DC_Shell 18
+    3300238: DirectConnectNode_6-DC_Shell 19
+    3300240: DirectConnectNode_6-DC_Shell 2
+    3300242: DirectConnectNode_6-DC_Shell 20
+    3300244: DirectConnectNode_6-DC_Shell 21
+    3300246: DirectConnectNode_6-DC_Shell 22
+    3300248: DirectConnectNode_6-DC_Shell 23
+    3300250: DirectConnectNode_6-DC_Shell 24
+    3300252: DirectConnectNode_6-DC_Shell 25
+    3300254: DirectConnectNode_6-DC_Shell 26
+    3300256: DirectConnectNode_6-DC_Shell 27
+    3300258: DirectConnectNode_6-DC_Shell 28
+    3300260: DirectConnectNode_6-DC_Shell 29
+    3300262: DirectConnectNode_6-DC_Shell 3
+    3300264: DirectConnectNode_6-DC_Shell 30
+    3300266: DirectConnectNode_6-DC_Shell 31
+    3300268: DirectConnectNode_6-DC_Shell 32
+    3300270: DirectConnectNode_6-DC_Shell 33
+    3300272: DirectConnectNode_6-DC_Shell 34
+    3300274: DirectConnectNode_6-DC_Shell 4
+    3300276: DirectConnectNode_6-DC_Shell 5
+    3300278: DirectConnectNode_6-DC_Shell 6
+    3300280: DirectConnectNode_6-DC_Shell 7
+    3300282: DirectConnectNode_6-DC_Shell 8
+    3300284: DirectConnectNode_6-DC_Shell 9
+    4300000: DirectConnectNode_2-DC_Shell
+    4300002: DirectConnectNode_2-DC_Shell
+    4300004: DirectConnectNode_2-DC_Shell
+    4300006: DirectConnectNode_2-DC_Shell
+    4300008: DirectConnectNode_2-DC_Shell
+    4300010: DirectConnectNode_2-DC_Shell
+    4300012: DirectConnectNode_2-DC_Shell
+    4300014: DirectConnectNode_2-DC_Shell
+    4300016: DirectConnectNode_2-DC_Shell
+    4300018: DirectConnectNode_2-DC_Shell
+    4300020: DirectConnectNode_2-DC_Shell
+    4300022: DirectConnectNode_2-DC_Shell
+    4300024: DirectConnectNode_2-DC_Shell
+    4300026: DirectConnectNode_2-DC_Shell
+    4300028: DirectConnectNode_2-DC_Shell
+    4300030: DirectConnectNode_2-DC_Shell
+    4300032: DirectConnectNode_2-DC_Shell
+    4300034: DirectConnectNode_2-DC_Shell
+    4300036: DirectConnectNode_2-DC_Shell
+    4300038: DirectConnectNode_2-DC_Shell
+    4300040: DirectConnectNode_2-DC_Shell
+    4300042: DirectConnectNode_2-DC_Shell
+    4300044: DirectConnectNode_2-DC_Shell
+    4300046: DirectConnectNode_2-DC_Shell
+    4300048: DirectConnectNode_2-DC_Shell
+    4300050: DirectConnectNode_2-DC_Shell
+    4300052: DirectConnectNode_3-DC_Shell
+    4300054: DirectConnectNode_3-DC_Shell
+    4300056: DirectConnectNode_2-DC_Shell
+    4300058: DirectConnectNode_2-DC_Shell
+    4300060: DirectConnectNode_2-DC_Shell
+    4300062: DirectConnectNode_2-DC_Shell
+    4300064: DirectConnectNode_2-DC_Shell
+    4300066: DirectConnectNode_2-DC_Shell
+    4300068: DirectConnectNode_2-DC_Shell
+    4300070: DirectConnectNode_2-DC_Shell
+    4300072: DirectConnectNode_2-DC_Shell
+    4300074: DirectConnectNode_2-DC_Shell
+    4300076: DirectConnectNode_2-DC_Shell
+    4300078: DirectConnectNode_2-DC_Shell
+    4300080: DirectConnectNode_2-DC_Shell
+    4300082: DirectConnectNode_2-DC_Shell
+    4300084: DirectConnectNode_2-DC_Shell
+    4300086: DirectConnectNode_2-DC_Shell
+    4300088: DirectConnectNode_2-DC_Shell
+    4300090: DirectConnectNode_2-DC_Shell
+    4300092: DirectConnectNode_2-DC_Shell
+    4300094: DirectConnectNode_2-DC_Shell
+    4300096: DirectConnectNode_2-DC_Shell
+    4300098: DirectConnectNode_2-DC_Shell
+    4300100: DirectConnectNode_2-DC_Shell
+    4300102: DirectConnectNode_2-DC_Shell
+    4300104: DirectConnectNode_2-DC_Shell
+    4300106: DirectConnectNode_2-DC_Shell
+    4300108: DirectConnectNode_2-DC_Shell
+    4300110: DirectConnectNode_2-DC_Shell
+    4300112: DirectConnectNode_2-DC_Shell
+    4300114: DirectConnectNode_2-DC_Shell
+    4300116: DirectConnectNode_2-DC_Shell
+    4300118: DirectConnectNode_2-DC_Shell
+    4300120: DirectConnectNode_2-DC_Shell
+    4300122: DirectConnectNode_2-DC_Shell
+    4300124: DirectConnectNode_2-DC_Shell
+    4300126: DirectConnectNode_2-DC_Shell
+    4300128: DirectConnectNode_2-DC_Shell
+    4300130: DirectConnectNode_2-DC_Shell
+    4300132: DirectConnectNode_2-DC_Shell
+    4300134: DirectConnectNode_2-DC_Shell
+    4300136: DirectConnectNode_2-DC_Shell
+    4300138: DirectConnectNode_2-DC_Shell
+    4300140: DirectConnectNode_2-DC_Shell
+    4300142: DirectConnectNode_2-DC_Shell
+    4300144: DirectConnectNode_2-DC_Shell
+    4300146: DirectConnectNode_2-DC_Shell
+    4300148: DirectConnectNode_3-DC_Shell
+    4300150: DirectConnectNode_3-DC_Shell
+    4300152: DirectConnectNode_2-DC_Shell
+    4300154: DirectConnectNode_2-DC_Shell
+    4300156: DirectConnectNode_2-DC_Shell
+    4300158: DirectConnectNode_2-DC_Shell
+    4300160: DirectConnectNode_2-DC_Shell
+    4300162: DirectConnectNode_2-DC_Shell
+    4300164: DirectConnectNode_2-DC_Shell
+    4300166: DirectConnectNode_2-DC_Shell
+    4300168: DirectConnectNode_2-DC_Shell
+    4300170: DirectConnectNode_2-DC_Shell
+    4300172: DirectConnectNode_2-DC_Shell
+    4300174: DirectConnectNode_2-DC_Shell
+    4300176: DirectConnectNode_2-DC_Shell
+    4300178: DirectConnectNode_2-DC_Shell
+    4300180: DirectConnectNode_2-DC_Shell
+    4300182: DirectConnectNode_2-DC_Shell
+    4300184: DirectConnectNode_6-DC_Shell
+    4300186: DirectConnectNode_6-DC_Shell
+    4300188: DirectConnectNode_6-DC_Shell
+    4300190: DirectConnectNode_6-DC_Shell
+    4300192: DirectConnectNode_6-DC_Shell
+    4300194: DirectConnectNode_6-DC_Shell
+    4300196: DirectConnectNode_6-DC_Shell
+    4300198: DirectConnectNode_6-DC_Shell
+    4300200: DirectConnectNode_6-DC_Shell
+    4300202: DirectConnectNode_6-DC_Shell
+    4300204: DirectConnectNode_6-DC_Shell
+    4300206: DirectConnectNode_6-DC_Shell
+    4300208: DirectConnectNode_6-DC_Shell
+    4300210: DirectConnectNode_6-DC_Shell
+    4300212: DirectConnectNode_6-DC_Shell
+    4300214: DirectConnectNode_6-DC_Shell
+    4300216: DirectConnectNode_6-DC_Shell
+    4300218: DirectConnectNode_6-DC_Shell
+    4300220: DirectConnectNode_6-DC_Shell
+    4300222: DirectConnectNode_6-DC_Shell
+    4300224: DirectConnectNode_6-DC_Shell
+    4300226: DirectConnectNode_6-DC_Shell
+    4300228: DirectConnectNode_6-DC_Shell
+    4300230: DirectConnectNode_6-DC_Shell
+    4300232: DirectConnectNode_6-DC_Shell
+    4300234: DirectConnectNode_6-DC_Shell
+    4300236: DirectConnectNode_6-DC_Shell
+    4300238: DirectConnectNode_6-DC_Shell
+    4300240: DirectConnectNode_6-DC_Shell
+    4300242: DirectConnectNode_6-DC_Shell
+    4300244: DirectConnectNode_6-DC_Shell
+    4300246: DirectConnectNode_6-DC_Shell
+    4300248: DirectConnectNode_6-DC_Shell
+    4300250: DirectConnectNode_6-DC_Shell
+    4300252: DirectConnectNode_6-DC_Shell
+    4300254: DirectConnectNode_2-DC_Shell
+    4300256: DirectConnectNode_2-DC_Shell
+    4300258: DirectConnectNode_3-DC_Shell
+    4300260: DirectConnectNode_3-DC_Shell
+    4300262: DirectConnectNode_3-DC_Shell
+    4300264: DirectConnectNode_3-DC_Shell
+    4300266: DirectConnectNode_2-DC_Shell
+    4300268: DirectConnectNode_3-DC_Shell
+    4300270: DirectConnectNode_3-DC_Shell
+    4300272: DirectConnectNode_2-DC_Shell
+    4300274: DirectConnectNode_2-DC_Shell
+    4300276: DirectConnectNode_2-DC_Shell
+    4300278: DirectConnectNode_2-DC_Shell
+    4300280: DirectConnectNode_2-DC_Shell
+    4300282: DirectConnectNode_2-DC_Shell
+    4300284: DirectConnectNode_2-DC_Shell
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
